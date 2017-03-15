@@ -1,0 +1,15 @@
+{
+  "expo":  {
+    "name": "Playground",
+    "icon": "https://s3.amazonaws.com/exp-us-standard/rnplay/app-icon.png",
+    "version": "0.0.1",
+    "slug": "rnplay",
+    "sdkVersion": "14.0.0",
+    "ios": {
+      "bundleIdentifier": "com.craftydigital.mobile.expo",
+    },
+    "android": {
+      "package": "com.craftydigital.mobile.expo",
+    }
+  }
+}
